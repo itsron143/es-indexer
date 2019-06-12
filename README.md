@@ -60,7 +60,7 @@ $ es-indexer --config path/to/config/file --source path/to/json/folder
 ## Adding more Data Sources
 More data sources other than `json` such as `SQL`, `Filesystem`, etc are also to be added to the es-indexer tool such that it can be a one stop shop for all the indexing needs of Elasticsearch. Anybody who'd like to contribute in integrating other data sources can raise and issue and we can start working on it!. 
 
-## To-DO
+## To-Do
 - [x] Add `json` support.
 - [ ] Add `SQL` data source integration.
 - [ ] Add `FileSystem` data source integration.
