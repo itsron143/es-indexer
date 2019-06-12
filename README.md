@@ -1,4 +1,5 @@
 # es-indexer
+[![PyPI version](https://badge.fury.io/py/es-indexer.svg)](https://badge.fury.io/py/es-indexer)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 ![Linux](https://img.shields.io/badge/Supports-Linux-green.svg)
 ![macOS](https://img.shields.io/badge/Supports-macOS-green.svg)
