@@ -41,7 +41,7 @@ Since Elasticsearch exposes a REST-API on Port 9200, there's no need for es-inde
 
 ## Usage
 ### Config
-You need to create a config (default path `$HOME/.elsi.yml`) before running elsi:
+You need to create a `config.yml` before running es-indexer:
 
     host: http://127.0.0.1:9200
     index: twitter-example
