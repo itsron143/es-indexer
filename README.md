@@ -1,5 +1,8 @@
 # es-indexer
-
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+![Linux](https://img.shields.io/badge/Supports-Linux-green.svg)
+![macOS](https://img.shields.io/badge/Supports-macOS-green.svg)
+![windows](https://img.shields.io/badge/Supports-windows-green.svg)
 
 **es-indexer** (Elasticsearch Indexer) is a simple concurrent command line tool written in Python to help you quickly populate some json data into Elasticsearch. <br><br>
 
