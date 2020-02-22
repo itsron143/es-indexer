@@ -9,7 +9,7 @@
 
 ## About
 
-Usually you'll have to use a third-party software or a client library to index data to Elasticsearch and setting that up can be really time consuming and tiresome (*cough*_logstash_*cough*). **es-indexer** helps in indexing raw contents of `*.json` documents quickly with the help of multi-processing. <br><br>
+Usually you'll have to use a third-party software or a client library to index data to Elasticsearch and setting that up can be really time consuming and tiresome (*cough*_logstash_*cough*). **es-indexer** helps in indexing raw contents of `*.json` documents quickly with the help of multi-threading. <br><br>
 
 **es-indexer** currently doesn't provide any syncing of the data, you'll have to reindex the data if it changes, but will always populate a new index and then create an alias, the old data will be present while re-indexing until the new index is fully populated. A future update might include syncing. <br>
 
