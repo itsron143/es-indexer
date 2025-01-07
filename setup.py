@@ -6,7 +6,7 @@ setup(
     name='es-indexer',
     version='0.1',
     description='A command line tool written in Python to help quickly populate json data into Elasticsearch.',
-    url='https://github.com/itsron717/es-indexer',
+    url='https://github.com/itsron143/es-indexer',
     license='MIT',
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
